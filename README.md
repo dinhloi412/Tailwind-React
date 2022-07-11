@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+PORT=5000
+PORT_Auth=4000
+ACCESS_TOKEN_SECRET = dinhloi412
+JWT_REFERSH_TOKEN=dinhloi
+MONGO_URL=mongodb+srv://admin:M4aSXPyT5DJUw8IC@cluster0.mvf6k.mongodb.net/?retryWrites=true&w=majority
